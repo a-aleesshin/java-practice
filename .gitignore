@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.idea
+java-practice.iml
 
 # Log file
 *.log
